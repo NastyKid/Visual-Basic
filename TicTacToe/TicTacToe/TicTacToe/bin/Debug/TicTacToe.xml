@@ -1,0 +1,50 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+TicTacToe
+</name>
+</assembly>
+<members>
+<member name="T:TicTacToe.My.Resources.Resources">
+<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+<member name="P:TicTacToe.My.Resources.Resources.ResourceManager">
+<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member>
+<member name="P:TicTacToe.My.Resources.Resources.Culture">
+<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member>
+<member name="M:TicTacToe.Main_Menu.play_btn_Click(System.Object,System.EventArgs)">
+ <summary>
+                                                                                                 '''
+ ***********                       ***********                      ***********                  '''
+ ***********                       ***********                      ***********                  '''
+ *********** *******    ******     ***********   ****     ******    ***********   ****    ****** '''
+    *****    *******   **    **       *****     **  **   **    **      *****     **  **   **     '''
+    *****      ***    ***             *****     ******  ***            *****    **    **  ****   '''
+    *****    *******   **    **       *****     **  **   **    **      *****     **  **   **     '''
+    *****    *******    ******        *****     **  **    ******       *****      ****    ****** '''
+*************************************************************************************************'''
+*************************************************************************************************'''
+                                 Developed by : Sherwin D. Sandoval                              '''
+                                     Tested by : Elton Tapinit                                   '''
+                                                                                                 '''
+                                                                                                 '''
+ UNBEATABLE TIC TAC TOE                                                                          '''
+  Date Started:  10.18.17                                                                        '''
+    PROGRESS:                                                                                    '''
+      > MAIN MENU : DONE : 9:00 PM : 10.18.17                                                    '''                                                      '''
+      > GAME :                                                                                   '''                                                '''
+                                                                                                 '''
+ </summary>
+</member>
+</members>
+</doc>
