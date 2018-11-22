@@ -1,0 +1,33 @@
+C:\Users\S\AppData\Local\Temporary Projects\Calculator\bin\Debug\Calculator.exe
+C:\Users\S\AppData\Local\Temporary Projects\Calculator\bin\Debug\Calculator.pdb
+C:\Users\S\AppData\Local\Temporary Projects\Calculator\bin\Debug\Calculator.xml
+C:\Users\S\AppData\Local\Temporary Projects\Calculator\obj\x86\Debug\Calculator.Resources.resources
+C:\Users\S\AppData\Local\Temporary Projects\Calculator\obj\x86\Debug\Calculator.vbproj.GenerateResource.Cache
+C:\Users\S\AppData\Local\Temporary Projects\Calculator\obj\x86\Debug\Calculator.exe
+C:\Users\S\AppData\Local\Temporary Projects\Calculator\obj\x86\Debug\Calculator.xml
+C:\Users\S\AppData\Local\Temporary Projects\Calculator\obj\x86\Debug\Calculator.pdb
+C:\Users\S\AppData\Local\Temporary Projects\Calculator\obj\x86\Debug\Calculator.Application.resources
+D:\Visual Studio 2010\Projects\Calculator\Calculator\obj\x86\Debug\Calculator.exe
+D:\Visual Studio 2010\Projects\Calculator\Calculator\obj\x86\Debug\Calculator.xml
+D:\Visual Studio 2010\Projects\Calculator\Calculator\obj\x86\Debug\Calculator.pdb
+D:\Visual Studio 2010\Projects\Calculator\Calculator\bin\Debug\Calculator.exe
+D:\Visual Studio 2010\Projects\Calculator\Calculator\bin\Debug\Calculator.pdb
+D:\Visual Studio 2010\Projects\Calculator\Calculator\bin\Debug\Calculator.xml
+D:\Visual Studio 2010\Projects\Calculator\Calculator\obj\x86\Debug\Calculator.Application.resources
+D:\Visual Studio 2010\Projects\Calculator\Calculator\obj\x86\Debug\Calculator.Resources.resources
+D:\Visual Studio 2010\Projects\Calculator\Calculator\obj\x86\Debug\Calculator.vbproj.GenerateResource.Cache
+D:\Visual Studio 2010\Projects\Calculator\Calculator\obj\x86\Debug\Calculator.Other_Op.resources
+D:\Visual Studio 2010\Projects\Calculator\Calculator\obj\x86\Debug\Calculator.vbprojResolveAssemblyReference.cache
+D:\Visual Studio 2010\Projects\Calculator\Calculator\obj\x86\Debug\Calculator.vbproj.CoreCompileInputs.cache
+D:\Visual Studio\Projects\Calculator\Calculator\bin\Debug\Calculator.exe
+D:\Visual Studio\Projects\Calculator\Calculator\bin\Debug\Calculator.pdb
+D:\Visual Studio\Projects\Calculator\Calculator\bin\Debug\Calculator.xml
+D:\Visual Studio\Projects\Calculator\Calculator\obj\x86\Debug\Calculator.vbprojResolveAssemblyReference.cache
+D:\Visual Studio\Projects\Calculator\Calculator\obj\x86\Debug\Calculator.Application.resources
+D:\Visual Studio\Projects\Calculator\Calculator\obj\x86\Debug\Calculator.Other_Op.resources
+D:\Visual Studio\Projects\Calculator\Calculator\obj\x86\Debug\Calculator.Resources.resources
+D:\Visual Studio\Projects\Calculator\Calculator\obj\x86\Debug\Calculator.vbproj.GenerateResource.Cache
+D:\Visual Studio\Projects\Calculator\Calculator\obj\x86\Debug\Calculator.vbproj.CoreCompileInputs.cache
+D:\Visual Studio\Projects\Calculator\Calculator\obj\x86\Debug\Calculator.exe
+D:\Visual Studio\Projects\Calculator\Calculator\obj\x86\Debug\Calculator.xml
+D:\Visual Studio\Projects\Calculator\Calculator\obj\x86\Debug\Calculator.pdb
